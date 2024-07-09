@@ -57,7 +57,7 @@ def download_video_with_progress(url, download_folder, video_id, video_quality, 
     return None
 
 # st.title("Youtube Video Downloader 🤘")
-st.image("title.png", use_column_width=True)
+st.image("YT.png", use_column_width=True)
 st.write("niku nachina video nachinattu download chesko mowa..!!")
 video_url = st.text_input("Enter YouTube video URL:")
 
