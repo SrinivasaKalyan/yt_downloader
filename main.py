@@ -8,7 +8,7 @@ import base64
 
 st.set_page_config(
     page_title="YT2VIDEO",
-    page_icon=":youtube (1).png:", 
+    page_icon="youtube (1).png", 
     layout="centered",
     initial_sidebar_state="auto"
 )
