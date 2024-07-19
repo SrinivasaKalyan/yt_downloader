@@ -8,9 +8,9 @@ import base64
 
 st.set_page_config(
     page_title="YT2VIDEO",
-    page_icon=":youtube:",  # Optional, you can set an emoji as the page icon
-    layout="centered",     # Other options: "wide"
-    initial_sidebar_state="auto"  # Other options: "expanded", "collapsed"
+    page_icon=":▶️:", 
+    layout="centered",
+    initial_sidebar_state="auto"
 )
 
 def load_lottiefile(filepath: str):
